@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+}
+img {
+    display:block;
+    width:400px; height:500px;
+    margin-left:auto;margin-right:auto;
+}
+
+#email {
+    text-align:center;
+}
+
+li {
+    list-style-type: square;
+}
+
+body{
+    background-color: purple;
+    font-weight:bold; 
+    color:white; 
+}
+div {
+    border:10px solid rgb(63, 58, 58);
+    padding-bottom:20px;
+}
+p {
+    font-style:italic;
+}
